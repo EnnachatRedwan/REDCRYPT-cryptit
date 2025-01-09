@@ -125,6 +125,7 @@ public class Main {
         System.out.println(" * Welcome to REDCRYPT - The file encryption / decryption tool.");
         System.out.println(" * This tool uses AES, DES, or Blowfish encryption algorithms to encrypt and decrypt files.");
         System.out.println(" * This tool is for educational purposes only. Do not use it for malicious purposes.");
+        System.out.println(" > This tool was proudly developed by ENNACHAT Redwan.");
         System.out.println();
     }
 }
