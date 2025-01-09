@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cryptit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cryptit_jar</output-path>
+    <root id="archive" name="cryptit.jar">
+      <element id="module-output" name="cryptit" />
+    </root>
+  </artifact>
+</component>
