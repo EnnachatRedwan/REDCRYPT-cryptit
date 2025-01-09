@@ -49,7 +49,7 @@ public class Main {
         System.out.println("Enter the path of the directory or file to encrypt: ");
         String filePath = scanner.nextLine().trim();
 
-        if (filePath.startsWith("C:")) {
+        if (filePath.toLowerCase().startsWith("c:")) {
             System.out.println("You are about to encrypt a file in the C: drive. Are you sure you want to continue? (Y/N)");
             String choice = scanner.nextLine();
             if (!choice.equalsIgnoreCase("Y")) {
